@@ -1,0 +1,28 @@
+name: zoeyang
+favicon: null
+layout_spectrum: 0.28611621889285743
+typography_spectrum: 0.9600538921076804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11892660427838564
+  lightness: 0.1419763993471861
+  saturation: 0.2102875777054578
+  rhythmicContrast: 0.511098237708211
+purpose: []
